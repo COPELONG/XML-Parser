@@ -50,15 +50,15 @@
 
 
 
-![2](D:\typora-image\image-20230108212324591.png)
+![2](https://github.com/COPELONG/XML-Parser/blob/master/pictures/2.png)
 
-![3](D:\typora-image\image-20230108212503003.png)
+![3](https://github.com/COPELONG/XML-Parser/blob/master/pictures/3.png)
 
 ##### Parser设计
 
 解析xml，把文本或者字符串中的数据转换成代码结构。
 
-![4](D:\typora-image\image-20230108221708712.png)
+![4](https://github.com/COPELONG/XML-Parser/blob/master/pictures/4.png)
 
 #### 琐碎知识点
 
