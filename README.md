@@ -38,7 +38,7 @@
 
 其中重载运算符中的数字类型，把数字类型存入流中，然后调用str（）转化为string。
 
-![1](D:\typora-image\image-20230108212100933.png)
+![1](https://github.com/COPELONG/XML-Parser/blob/master/pictures/1.png)
 
 2.xml类设计
 
