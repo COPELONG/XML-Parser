@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!--hello-->
+<students>
+<student id="1" class="101">
+<name>Rolo</name>
+</student>
+</students>
